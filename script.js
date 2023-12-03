@@ -1,6 +1,6 @@
 let todoList = [];
 
-// HANDLE AND FORM
+// HANDLE AND FORM check
 const addInput = document.querySelector('#addInput');
 const formLayout = document.querySelector("#addForm");
 
